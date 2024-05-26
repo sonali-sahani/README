@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sonali Sahany</h1>
+<h1 align="center">Hello, I'm Sonali Sahany</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-sahani&label=Profile%20views&color=0e75b6&style=flat" alt="sonali-sahani" /> </p>
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sonnaa.sahani@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/sonali/Downloads/RESUME%20(1).pdf](file:///C:/Users/sonali/Downloads/RESUME%20(1).pdf)
+- 📄 Know about my experiences ["C:\Users\sonali\Downloads\RESUME (1).pdf"]("C:\Users\sonali\Downloads\RESUME (1).pdf")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
